@@ -1,1 +1,1 @@
-print("Hello from upstream")
+print("Версия с машины")
